@@ -1,4 +1,4 @@
-# Assiggnment_square
+# Assignment_square
 For the task of drone performing a square trajectory in Gazebo simulator using python API
 This code uses PYTHON API's
 Following API's are used:
